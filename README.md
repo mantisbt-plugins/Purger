@@ -30,8 +30,8 @@ After copying to your webserver:<br>
 
 ## Configuration
 
-- Set lifetime of the Captcha image (default = 60)
-- Set length of the Captcha text (default = 5
+- Set access level (default = administrator)
+- Set minimum status level (default = Closed)
 
 ## License
 
