@@ -6,7 +6,7 @@ Copyright 2024 Cas Nuy
 
 ## description
 
-This plugin will purge issues in bul so one does not need to use a tool like phpMyAdmin.<br>
+This plugin will purge issues in bulk so one does not need to use a tool like phpMyAdmin.<br>
 Just define the minimum Status the issues should have and give the date untill when all issues should be purged.<br>
 It will take into account the project selction made in Mantis itself.<br>
 NB<br>
