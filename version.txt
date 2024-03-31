@@ -1,0 +1,3 @@
+Version: 1.0.0#
+Devurl: https://github.com/mantisbt-plugins/Purger/blob/main/version.txt #
+Location: https://github.com/mantisbt-plugins/Purger/archive/refs/heads/main.zip #

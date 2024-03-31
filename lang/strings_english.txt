@@ -1,0 +1,13 @@
+<?PHP
+$s_plugin_Purger_name 			= "Purger issues Plugin";
+$s_plugin_Purger_description 	= "Purge issues based upon age & status";
+$s_plugin_Purger_manage 		= "Purge Issues";
+$s_plugin_Purger_threshold 		= "Minimum level required";
+$s_plugin_Purger_go		 		= "Start Purge Process";
+$s_plugin_Purger_age	 		= "Purge until date: ";
+$s_plugin_Purger_status	 		= "Minimum current status for Purge: ";
+$s_plugin_Purger_continue 		= "Please confirm to start purging";
+$s_plugin_Purger_ok		 		= "Purge!";
+$s_plugin_Purger_export 		= "Use the ZipExport plugin to secure the data you are about to purge";
+$s_plugin_Purger_getit			= "Go get that plugin";
+$s_plugin_Purger_backup			= "<b><i>Please do make backup of your database before continuing</i></b>";
