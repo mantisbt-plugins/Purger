@@ -11,3 +11,4 @@ $s_plugin_Purger_ok		 		= "Purge!";
 $s_plugin_Purger_export 		= "Use the ZipExport plugin to secure the data you are about to purge";
 $s_plugin_Purger_getit			= "Go get that plugin";
 $s_plugin_Purger_backup			= "<b><i>Please do make backup of your database before continuing</i></b>";
+$s_plugin_Purger_config	 		= "Configuration";
